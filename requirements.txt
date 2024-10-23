@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+sentence-transformers
+psycopg2
+torch
+pandas
